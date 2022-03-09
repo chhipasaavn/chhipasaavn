@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @chhipasaavn
+- :') Currently I am working as a Software Developer
 - 👀 I’m interested in Data and Business
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on with startups
